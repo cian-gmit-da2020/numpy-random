@@ -1,6 +1,8 @@
 # numpy-random
 Project on numpy.random package. 
+
 Programming for Data Analysis Module
+
 Cian Hogan, 22/11/2020
 
 
