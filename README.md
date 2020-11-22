@@ -38,7 +38,7 @@ The following assignment concerns the numpy.random package in Python . You are r
 ## 7. References
 
 # Required software/dependencies
-To run the code in the notebook some software packages are required. The code was written and tested in the versions lsited below but may work in older version of the software. All packages are available in the latest version of the anaconda distribution of python.
+To run the code in the notebook some software packages are required. The code was written and tested in the versions listed below but may work in older version of the software. All packages are available in the latest version of the anaconda distribution of python.
 
 1. Python v3.8.3
 2. Numpy v1.18.5
